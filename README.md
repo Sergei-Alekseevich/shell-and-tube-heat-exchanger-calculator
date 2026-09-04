@@ -33,16 +33,17 @@ Python tool for thermodynamic calculation, fluid property interpolation, and aut
 ## Quick Start
 
 No external dependencies are required.
+markdown
 
-`bash
-
+```bash
 # Clone the repository
-
-git clone [https://github.com/Sergei-Alekseevich/shell-and-tube-heat-exchanger-calculator.git](https://github.com/Sergei-Alekseevich/shell-and-tube-heat-exchanger-calculator.git)
+git clone https://github.com/Sergei-Alekseevich/shell-and-tube-heat-exchanger-calculator.git
 
 # Run the calculator module
-1) python main.py
-2) Follow the interactive console prompts to select operating fluids and input process parameters (mass flow, entry/exit temperatures, allowable pressure drops).
+python main.py
+```
+
+* Follow the interactive console prompts to select operating fluids and input process parameters...
 ​
 # Project Context
 ​This tool was developed as a final evaluation project during a professional development program (DPO). It demonstrates practical application of Python algorithms to process engineering and thermodynamic design. It could save from 2 to 5 hours of manual engineering calculations.
