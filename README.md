@@ -33,7 +33,6 @@ Python tool for thermodynamic calculation, fluid property interpolation, and aut
 ## Quick Start
 
 No external dependencies are required.
-markdown
 
 ```bash
 # Clone the repository
